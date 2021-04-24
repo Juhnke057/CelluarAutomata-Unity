@@ -37,5 +37,22 @@ Adding walls with vertices makes it look like this:
 
 <br/>
 <br/>
+Added functions to find where passages should be made:
+<br/>
 
+![CanFindConnections1](https://user-images.githubusercontent.com/57365322/115975856-c11cbd00-a568-11eb-8b78-122c644ca5c4.PNG)
+
+<br/>
+<br/>
+Now it connects all "Rooms":
+<br/>
+
+![CanFindConnections2](https://user-images.githubusercontent.com/57365322/115975858-c7ab3480-a568-11eb-8ba5-5d13fd6b06d9.PNG)
+
+<br/>
+<br/>
+Now it creates real passages:
+<br/>
+
+![PassageWaysProt1](https://user-images.githubusercontent.com/57365322/115975868-deea2200-a568-11eb-991d-0be294e4bce8.PNG)
 
