@@ -2,6 +2,8 @@
 <br/>
 A project about making caves and caverns with Celluar Automata and Marching Squares.
 <br/> 
+<br/>
+<br/>
 This is what the first edition looked like:
 <br/>
 
