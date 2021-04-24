@@ -30,4 +30,12 @@ After making a mesh out of the boxes it looks like this:
 
 <br/>
 <br/>
+Adding walls with vertices makes it look like this:
+<br/>
+
+![WallsProto1](https://user-images.githubusercontent.com/57365322/115972818-0503c800-a551-11eb-9b2b-70df227f4bfa.PNG)
+
+<br/>
+<br/>
+
 
