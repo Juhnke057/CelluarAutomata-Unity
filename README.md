@@ -54,5 +54,5 @@ Now it connects all "Rooms":
 Now it creates real passages:
 <br/>
 
-![PassageWaysProt1](https://user-images.githubusercontent.com/57365322/115975868-deea2200-a568-11eb-991d-0be294e4bce8.PNG)
+![PassageWaysProt1](https://user-images.githubusercontent.com/57365322/115975895-13f67480-a569-11eb-88e4-c94b6b04493b.PNG)
 
