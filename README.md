@@ -23,4 +23,11 @@ This is how the squares look:
 
 <br/>
 <br/>
+After making a mesh out of the boxes it looks like this:
+<br/>
+
+![MeshProto1](https://user-images.githubusercontent.com/57365322/115965252-901c9800-a528-11eb-8deb-92512da5a766.PNG)
+
+<br/>
+<br/>
 
